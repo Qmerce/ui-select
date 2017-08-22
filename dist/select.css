@@ -1,7 +1,7 @@
 /*!
  * ui-select
  * http://github.com/angular-ui/ui-select
- * Version: 0.11.2 - 2015-05-13T13:38:02.502Z
+ * Version: 0.11.2 - 2017-08-22T09:06:15.683Z
  * License: MIT
  */
 
@@ -52,7 +52,7 @@ body > .select2-container.open {
 
 /* Helper class to show styles when focus */
 .selectize-input.selectize-focus{
-  border-color: #007FBB;
+  border-color: #007FBB !important;
 }
 
 /* Fix input width for Selectize theme */
